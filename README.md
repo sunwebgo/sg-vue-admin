@@ -1,3 +1,5 @@
+# sangeng blog 前端后台
+
 # vue-admin-template
 
 English | [简体中文](./README-zh.md)
@@ -31,7 +33,7 @@ cd vue-admin-template
 npm install
 
 # develop
-npm run dev
+npm run serve
 ```
 
 This will automatically open http://localhost:9528
