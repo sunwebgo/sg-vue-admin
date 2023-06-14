@@ -1,5 +1,7 @@
 # sangeng blog 前端后台
 
+![img.png](/src/assets/images/website.png)
+
 # vue-admin-template
 
 English | [简体中文](./README-zh.md)
